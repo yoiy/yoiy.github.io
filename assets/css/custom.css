@@ -1,0 +1,27 @@
+p.inset {
+	border-top-style: inset;
+	height: 20px;
+}
+a.fa-th{
+	width: 100%; 
+	height: auto;
+}
+a.ig{
+    width:20%;
+    height: auto;
+	display: block;
+
+}
+a.fb{
+    width:20%;
+    height: auto;
+	display: block;
+}
+
+}
+a.tw{
+    width:20%;
+    height: auto;
+	display: block;
+
+}
